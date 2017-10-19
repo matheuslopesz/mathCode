@@ -1,6 +1,6 @@
 close;
 clear;
-N =1000;
+N =10000;
 valores = 100;
 for i=1:valores
     valor = rand(1,N,'uniform'); // criando vetor de número aleatórios 
